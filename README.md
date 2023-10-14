@@ -5,10 +5,10 @@ To implement Erosion and Dilation using Python and OpenCV.
 Anaconda - Python 3.7 , OpenCV
 ### Algorithm:
 - Step1: Import the necessary packages.
-- Step2: Read the image.
-- Step3: Create the structuring element or kernal element.
-- Step4: Use Opening Operation.
-- Step5: Use Closing Operation.
+- Step2: Use cv2.putText to add the text to the image at specific coordinates.
+- Step3: Define two kernels (kernel and kernel1) for morphological operations.
+- Step4: Display the eroded image using cv2.imshow.
+- Step5: Display the dilated image using cv2.imshow.
 
 Developed By: ROHIT JAIN D
 Register No: 212222230120<br>
