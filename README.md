@@ -1,6 +1,6 @@
 # EX-10 EROSION AND DILATION
 ### Aim
-To implement Erosion and Dilation using Python and OpenCV.
+To implement Erosion and Dilation using Python and OpenCV.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**DATE:** 24.10.2023
 ### Software Required
 Anaconda - Python 3.7 , OpenCV
 ### Algorithm:
@@ -9,9 +9,10 @@ Anaconda - Python 3.7 , OpenCV
 - Step3: Define two kernels (kernel and kernel1) for morphological operations.
 - Step4: Display the eroded image using cv2.imshow.
 - Step5: Display the dilated image using cv2.imshow.
-
+```
 Developed By: ROHIT JAIN D
-Register No: 212222230120<br>
+Register No: 212222230120<
+```
 ### Program:
 - Importing the necessary packages
   ``` Python
